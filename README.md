@@ -28,6 +28,9 @@ O algoritmo segue estas etapas:
 python gerador_cpf.py
 ```
 
+## Você pode gerar a vontade com o link abaixo:
+https://geraldohumberto.github.io/gerador_cpf/
+
 ## Regras e Validação
 - Gera números que passam na validação do algoritmo oficial
 - Não garante que sejam CPFs reais, apenas matematicamente válidos
